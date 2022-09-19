@@ -1,6 +1,6 @@
 import React from "react";
-import Home from "./components/home";
-import TopNav from "./components/Topnav";
+import Home from "./components/Home/Home";
+import TopNav from "./components/TopNav/TopNav";
 
 
 
@@ -8,8 +8,9 @@ function App() {
   return (
     <div>
       <main>
-        <TopNav></TopNav>
-        <Home></Home>
+        <TopNav/>
+        <Home/>
+     
         
       </main>
       

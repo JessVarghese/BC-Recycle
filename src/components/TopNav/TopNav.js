@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import{ Navbar, Nav, Container, Redirect} from 'react-bootstrap'
 
-import Home from '../home';
+import Home from '../Home/Home';
 
 
 import {
